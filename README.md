@@ -1,4 +1,4 @@
-# TransNet-V2-nad-Blip-documentation
+# TransNet-V2-and-Blip-documentation
 
 This documentation answers the following questions:
 - What is TransNet2, how does it work, and how can we use it?
